@@ -2,7 +2,7 @@
 
 
 ### Topic
-For this challenge, I analyzed the NYC citibike ridership trends spanning over the period of one year from January 2020 to December 2020. <br><br>
+For this challenge, I analyzed the **NYC citibike ridership trends spanning over the period of one year from _January 2020 to December 2020_**. <br><br>
 
 
 ### Tableau Analysis
