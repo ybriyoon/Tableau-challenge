@@ -6,7 +6,7 @@ For this challenge, I analyzed the **NYC citibike ridership trends spanning over
 
 
 ### Tableau Analysis
-**[Go to Tableau Storyboard](https://public.tableau.com/profile/yeonjae.r#!/vizhome/Citibike_Analysis_16121799030900/Story1)** for the full Tableau Analysis. <br><br>
+**[Go to Tableau Storyboard](https://public.tableau.com/app/profile/ybriyoon/viz/Citibike_Analysis_16121799030900/Story1)** for the full Tableau Analysis. <br><br>
 
 ### Raw Citibike Datasets
 Click **[HERE](https://s3.amazonaws.com/tripdata/index.html)** to view the raw data used for the analysis. 
